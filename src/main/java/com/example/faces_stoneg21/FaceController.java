@@ -1,12 +1,10 @@
 package com.example.faces_stoneg21;
 
-import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.RadioGroup;
 import android.widget.SeekBar;
 
-import androidx.appcompat.app.AppCompatActivity;
 
 /**
  * --- FaceController Class ---
