@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Faces_stoneg21</string>
+    
+    <string-array name="hairStyles">
+        <item>Business</item>
+        <item>Bald</item>
+        <item>Bun</item>
+    </string-array>
+    
+</resources>
