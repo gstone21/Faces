@@ -13,6 +13,13 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+/**
+ * --- MainActivity ---
+ * This class overrides onCreate and links UI controls to
+ * their respected listeners.
+ *
+ * @author Grant Stone
+ */
 
 public class MainActivity extends AppCompatActivity
 {

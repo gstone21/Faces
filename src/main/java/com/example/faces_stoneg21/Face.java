@@ -12,6 +12,13 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.Random;
 
+/**
+ * --- Face Class ---
+ * This class draws it's face
+ *
+ * @author Grant Stone
+ */
+
 public class Face extends SurfaceView
 {
     protected int skinColor;

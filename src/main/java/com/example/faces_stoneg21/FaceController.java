@@ -8,6 +8,14 @@ import android.widget.SeekBar;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+/**
+ * --- FaceController Class ---
+ * This is the controller class for making changes
+ * to it's face.
+ *
+ * @author Grant Stone
+ */
+
 public class FaceController implements AdapterView.OnItemSelectedListener, RadioGroup.OnCheckedChangeListener,
         SeekBar.OnSeekBarChangeListener, View.OnClickListener
 {
